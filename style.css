@@ -188,8 +188,8 @@ animation-iteration-count:infinite;
 }
 footer{
     border-top: 0.1em solid #d9d8d7;
-    padding-top: 1em;*/
-}
+    padding-top: 1em;
+}*/
 footer{
     display: flex;
     justify-content: center;
