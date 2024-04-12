@@ -166,6 +166,21 @@ animation-iteration-count:infinite;
 animation-duration: 0.7s;
 animation-iteration-count:infinite;
 }
+#skype {
+    margin-top: 4em;
+}
+#sk {
+   position: absolute;
+    /*right: 85%;*/
+    margin-left: 4em;
+    height: 1.5em;
+    margin-bottom: 2em;
+}
+#sk:hover {
+  animation-name:rotateAnimation;
+animation-duration: 0.7s;
+animation-iteration-count:infinite;
+}
 #gmail {
     margin-top: 4em;
 }
