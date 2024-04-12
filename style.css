@@ -116,7 +116,8 @@ span{
     transform-origin: right bottom;
     transform: scale(2);
     z-index: 1;
-    #diplom_2{
+}
+#diplom_2{
     margin: 3em 1em 2em 2em;
     display: flex;
     justify-content: center;
