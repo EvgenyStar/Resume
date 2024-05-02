@@ -139,7 +139,16 @@ span{
     transform: scale(2);
     z-index: 1;
 }
+#mini{
+    width: 25%;
+    align-content: center;
+    transition: transform 0.7s ease;
 }
+#mini:hover{
+    transform-origin: bottom;
+    transform: scale(2);
+    z-index: 1;
+    }
 #linked{
     margin-top: 4em;
     /*font-family: Helvetica Neue;
