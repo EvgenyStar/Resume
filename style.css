@@ -81,8 +81,10 @@ span{
     line-height: 1.5;
 }
 #diplom{
-   margin: 3em 1em 2em 2em;
-
+   /*margin: 3em 1em 2em 2em;*/
+    margin: 3em 2em 2em 2em;
+    display: flex;
+    justify-content: center;
 }
 #diplom img{
     position: relative;
@@ -124,7 +126,10 @@ span{
     z-index: 1;
 }
 #diplom_2{
-    margin: 3em 1em 2em 2em;
+    /*margin: 3em 1em 2em 2em;
+    display: flex;
+    justify-content: center;*/
+    margin: 3em 2em 2em 2em;
     display: flex;
     justify-content: center;
 }
@@ -133,7 +138,7 @@ span{
     /*left: 3%;*/
     box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.2);
     /*justify-content: center;*/
-    margin-left: 4em;
+    /*margin-left: 4em;*/
 }
 #seo{
     width: 25%;
