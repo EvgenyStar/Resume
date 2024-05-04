@@ -1,5 +1,5 @@
 body{
-    font-family: Times New Roman, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 3em;
     background-color:floralwhite;
     /*background-color: lightgrey;*/
@@ -10,7 +10,7 @@ body{
 
 }
 
-@media (orientation: portrait) and (max-width: 1100px){
+@media (max-width: 1100px){
     font-size: 5vw;
 
 }
@@ -22,7 +22,6 @@ h1{
 h2{
     background-color: rgba(217, 216, 215, 0.18);
     border-radius: 0.5em;
-    background-size: flex;
     padding-left: 0.5em;
 }
 #ava{
@@ -239,15 +238,7 @@ animation-iteration-count:infinite;
 animation-duration: 0.7s;
 animation-iteration-count:infinite;
 }
-/*.lang{
-    border-bottom: 0.1em solid #d9d8d7;
-    padding-bottom: 1em;
 
-}
-footer{
-    border-top: 0.1em solid #d9d8d7;
-    padding-top: 1em;
-}*/
 footer{
     display: flex;
     justify-content: center;
