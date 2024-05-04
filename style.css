@@ -126,12 +126,12 @@ span{
     z-index: 1;
 }
 #diplom_2{
-    /*margin: 3em 1em 2em 2em;
-    display: flex;
-    justify-content: center;*/
-    margin: 3em 2em 2em 2em;
+    margin: 3em 1em 2em 2em;
     display: flex;
     justify-content: center;
+    /*margin: 3em 2em 2em 2em;
+    display: flex;
+    justify-content: center;*/
 }
 #diplom_2 img{
     position: relative;
