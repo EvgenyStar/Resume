@@ -37,6 +37,7 @@ h2{
 }
 #ava:hover {
     transform: scale(1.5);
+    transform-origin: right top;
 }
 #table1{
     border: none;
